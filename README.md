@@ -8,7 +8,7 @@ Get ready to explore! I used the knowledge from the Creative Course to independe
 
 ### •	🏃 Animation: Observe the seamless Animation system integration for the animals within the scene.
 
-### • 💨 VFX & Post-processing: Explore custom VFX setups and their URP lighting integration. The scene utilizes a Global Box Volume for overall cinematic effects, complemented by individual post-processing setups created specifically for the animal objects.	
+### • 💨 VFX & Post-processing: Explore custom VFX setups and their URP lighting integration. The scene utilizes a Global Box Volume for overall cinematic effects, complemented by individual post-processing setups created specifically for the animals.	
 
 ### • 🔊 Audio: Listen closely to the spatial audio cues, featuring the Dynamic Rolloff effect for realistic distance-based volume control.
 
