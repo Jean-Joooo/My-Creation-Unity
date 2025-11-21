@@ -1,4 +1,4 @@
-# 💡 Creative Unity: My Project
+# 💡 Creative Pathway Unity: My Project
 
 Get ready to explore! I used the knowledge from the Creative Course to independently create this environment from scratch. Here’s a look at the key technical systems and features I implemented:
 
