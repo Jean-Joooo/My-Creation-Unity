@@ -1,6 +1,6 @@
 # 💡Creative Pathway Unity: My Creation
 
-Get ready to explore! I used the knowledge from the Creative Course to independently create this environment from scratch. Here’s a look at the key technical systems and features I implemented:
+### Get ready to explore! I used the knowledge from the Creative Course to independently create this environment from scratch. Here’s a look at the key technical systems and features I implemented:
 
 ### •	🎨 Shaders / Materials: Dive into custom Shader Graph materials and different Shaders utilized across the environment for enhanced realism.
 
