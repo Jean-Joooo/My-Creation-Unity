@@ -620,7 +620,7 @@
     "m_ObjectId": "084581f904c24418b9c827f43fbc12fb",
     "m_Title": "Changing Offset over Time",
     "m_Position": {
-        "x": -2245.0,
+        "x": -2244.999755859375,
         "y": -555.0
     }
 }
@@ -1240,8 +1240,8 @@
     "m_ObjectId": "3fc7ff2230bf4700bba2d1a66b68c9bd",
     "m_Title": "Intensity and Color",
     "m_Position": {
-        "x": -431.0,
-        "y": -547.0
+        "x": -431.0000305175781,
+        "y": -546.9999389648438
     }
 }
 
@@ -1411,7 +1411,7 @@
     "m_ObjectId": "5e84cde0200f40a8ba6496e93dd58002",
     "m_Title": "Offset and Scaling",
     "m_Position": {
-        "x": -1404.0,
+        "x": -1403.9998779296875,
         "y": -554.0
     }
 }
