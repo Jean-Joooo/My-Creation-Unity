@@ -32,7 +32,7 @@ Material:
   m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 1
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2000
   stringTagMap:
     RenderType: Opaque
@@ -202,7 +202,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _ColorMask: 15
     - _ColorMode: 0
-    - _Cull: 0
+    - _Cull: 2
     - _CullMode: 0
     - _Cutoff: 0
     - _Depthpower: 1
@@ -274,7 +274,7 @@ Material:
     - _Color: {r: 0.5622641, g: 0.5622641, b: 0.5622641, a: 1}
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _DistortionSpeedXYPowerZ: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0.27107868, g: 0.34900135, b: 0.554717, a: 1}
+    - _EmissionColor: {r: 0.21509439, g: 0.21509439, b: 0.21509439, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _HueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}

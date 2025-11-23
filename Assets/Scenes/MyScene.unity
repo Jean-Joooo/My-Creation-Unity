@@ -1299,8 +1299,7 @@ Transform:
   m_LocalPosition: {x: 621, y: -600.9, z: -108}
   m_LocalScale: {x: 700, y: 700, z: 700}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 957689523}
+  m_Children: []
   m_Father: {fileID: 1510061317}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &820191579
@@ -2409,7 +2408,7 @@ Terrain:
   m_DeringLightProbesForTrees: 1
   m_ReceiveGI: 1
   m_ScaleInLightmap: 0.0256
-  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightmapParameters: {fileID: 15204, guid: 0000000000000000f000000000000000, type: 0}
   m_GroupingID: 0
   m_RenderingLayerMask: 1
   m_AllowAutoConnect: 1
@@ -2425,11 +2424,11 @@ Transform:
   m_GameObject: {fileID: 957689520}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.922857, y: -0.0044285366, z: -6.092857}
-  m_LocalScale: {x: 0.14285713, y: 0.14285713, z: 0.14285713}
+  m_LocalPosition: {x: -2125, y: -604, z: -4373}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 818210106}
+  m_Father: {fileID: 1510061317}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &960750365 stripped
 Transform:
@@ -4115,6 +4114,7 @@ Transform:
   - {fileID: 960750365}
   - {fileID: 79078490}
   - {fileID: 818210106}
+  - {fileID: 957689523}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1520361351
