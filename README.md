@@ -21,4 +21,4 @@ ________________________________________
 ### •	Helicopter 🚁: Use the Arrow Keys, Space, and Left Ctrl for flight control.
 ### •	Camera/View: Use C key to change cameras & the Mouse to arrange and adjust your view angle.
 
-## If you want to play ----> [click here](https://play.unity.com/en/games/47b1901a-e2d1-41ca-8088-6d1bcb2bd2b2/creative-pathway-unity-my-creation)
+## If you want to test it ----> [click here](https://play.unity.com/en/games/47b1901a-e2d1-41ca-8088-6d1bcb2bd2b2/creative-pathway-unity-my-creation)
