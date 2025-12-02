@@ -8,7 +8,6 @@ public class CameraSwitcher : MonoBehaviour
 
     void Start()
     {
-
         camera1.enabled = true;
         camera2.enabled = false;
     }
@@ -24,7 +23,6 @@ public class CameraSwitcher : MonoBehaviour
 
     void SwitchCameras()
     {
-        // Toggle cameras
         isCamera1Active = !isCamera1Active;
 
         camera1.enabled = isCamera1Active;
