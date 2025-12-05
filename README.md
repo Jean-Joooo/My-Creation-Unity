@@ -1,6 +1,6 @@
 # 💡Creative Pathway Unity: My Creation
 
-### Get ready to explore! I used the knowledge from the Creative Course to independently create this environment from scratch. Here’s a look at the key technical systems and features I implemented:
+## Get ready to explore! I used the knowledge from the Creative Course to independently create this environment from scratch. Here’s a look at the key technical systems and features I implemented:
 
 ## •	🎨 Shaders / Materials: Dive into custom Shader Graph materials and different Shaders utilized across the environment for enhanced realism.
 
@@ -21,4 +21,4 @@ ________________________________________
 ### •	Helicopter 🚁: Use the Arrow Keys, Space, and Left Ctrl for flight control.
 ### •	Camera/View: Use C key to change cameras & the Mouse to arrange and adjust your view angle.
 
-## If you want to test it ----> [click here](https://play.unity.com/en/games/47b1901a-e2d1-41ca-8088-6d1bcb2bd2b2/creative-pathway-unity-my-creation)
+# If you want to test it ----> [click here](https://play.unity.com/en/games/47b1901a-e2d1-41ca-8088-6d1bcb2bd2b2/creative-pathway-unity-my-creation)
